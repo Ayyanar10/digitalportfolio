@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+    <head>
+      
+  <meta charset="UTF-8">
+
+        <meta http-equiv="X-UA-Compatible" content="\E=edge">
+
+        <meta name="viewport" content="width"=device-width,initial-scale=1.0">
+
+        <title>PERSONAL PORTFOLIO</title>
+
+        <link rel="stylesheet" href="style.css">
+
+    </head>
+<body>
+    <div class="hero">
+<nav>
+
+    <img src="messi.jpeg"height="200px"width="180"
+    style = "border-radius:50%"
+    alt="">
+    <ul>
+        <li><a href="#">HOME</a></li>
+        <li><a href="#">ABOUT</a></li>
+        <li><a href="#">SKILL</a></li>
+        <li><a href="#">PORTFOLIO</a></li>
+        <li><a href="#">CONTACT</a></li>
+    </ul>
+</nav>
+<div class="detail">
+    <h1>I'M <span>AYYANAR</span></h1>
+    <h2>I am PROFESSIONAL FOOTBALLER</h2>
+       <p>Life is better with a Football,
+      <br>To be the best,you need the best...
+      </p>
+    <a href="#"><DOWNLOAD.CV</a>
+    <div class="images">
+        <img src="alex.jpeg"class="shape"
+        style = "border-rectangle:50%"
+        alt="">   
+    </div>
+</div>
+    </div>
+</body>
+</html>
